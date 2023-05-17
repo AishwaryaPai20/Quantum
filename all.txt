@@ -1,0 +1,34 @@
+Ex 1
+StateVector.ipynb
+
+Ex 2
+SingleQubit.ipynb
+
+Ex 3
+MultiQubit.ipynb
+
+Ex 4
+PhaseKickback.ipynb
+
+Ex 5
+CircuitIdentifier.ipynb
+
+Ex 6
+6a
+HalfAdder.ipynb
+
+6b 
+HalfSub.ipynb
+
+Ex 7
+Depth.ipynb
+
+Ex 8
+BB84.ipynb
+
+Ex 9 
+Grovers.ipynb
+GroversAlgorithm.ipynb
+
+Ex 10
+Teleportation.ipynb 
